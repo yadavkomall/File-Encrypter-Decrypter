@@ -60,8 +60,6 @@ public class Encryption{
    
     public static void main(String args[]){
 
-        System.out.println("hello world");
-
         JFrame f = new JFrame();
         f.setTitle("File encryption decryption");
         f.setSize(400,400);
